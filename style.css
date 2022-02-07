@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url(img1.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+#con{
+    width:80%;
+    background: rgba(158, 142, 142, 0.459);
+    margin: auto;
+    margin-top: 100px;
+    font-size: 40px;
+}
+h2,h1{
+    text-align: center;
+}
+#btn1{
+    padding: 15px;
+    width: 220px;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 10px;
+    background: darkred;
+    color: white;
+    border: none;
+}
+#btn2{
+    padding: 15px;
+    width: 220px;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 10px;
+    background: darkgreen;
+    color: white;
+    border: none;
+}
+.btn{
+    width: 30%;
+    margin: 30px auto;
+}
+.enteries{
+    font-size: larger;
+    font-weight: bolder;
+    width: 220px;
+    padding: 15px;
+    margin: auto;
+}
